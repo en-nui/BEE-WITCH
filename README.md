@@ -1,0 +1,1 @@
+This repo contains code for "Evolutionary dynamics within the honey bee gut microbiome" by Chris R. P. Robinson, Adam G. Doleza, and Irene L. G. Newton. Submitted code is unpolished and highly "bespoke". I (CRPR) am happy to answer any questions or provide a clean, more general workflow upon request. 
