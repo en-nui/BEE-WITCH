@@ -5,6 +5,9 @@
 
 ---
 
+NOTE: MUCH OF THIS IS HARDCODED AND MADE FOR CRPR. FEEL FREE TO REACH OUT WITH ANY QUESTIONS FOR YOUR PARTICULAR USE CASE. THIS CODE WILL LIKELY NOT WORK IF  YOU DOWNLOAD IT AND TRY TO RUN IT. 
+
+
 ## Overview
 
 This repository contains the bioinformatic, population-genetic, and ecological analysis pipelines supporting the manuscript: **"Ecological stability masks rapid, convergent evolution within the honey bee worker microbiome"**.
